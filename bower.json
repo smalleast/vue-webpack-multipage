@@ -1,0 +1,24 @@
+{
+  "name": "vue-webpack-multipage",
+  "description": "Vue multipage app based on webpack.",
+  "main": "dist/vue-webpack-multipage.js",
+  "authors": [
+    "smalleast"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/smalleastship/vue-webpack-multipage",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
